@@ -1,0 +1,5 @@
+ключи.env
+__pycache__/
+*.pyc
+work/
+tests/fixtures/
